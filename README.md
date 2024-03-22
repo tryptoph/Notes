@@ -24,7 +24,9 @@ Embarking on your cybersecurity journey with CyberSecDojo is a breeze:
 
 ### 🌐 Stay Connected with CyberSecDojo
 Stay connected with the CyberSecDojo community and stay updated on the latest cybersecurity trends, tools, and techniques. Here's how you can connect with us:
+
 💬 [Discord](https://discord.com/users/689584140924092476)
+
 🌐 [LinkedIn](https://www.linkedin.com/in/ilyas-bajji-6014b31b3)
 
 
