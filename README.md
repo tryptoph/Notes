@@ -1,4 +1,4 @@
-# Project Title: CyberSecDojo 🛡️🥷
+# Project Title: CyberSecDojo 🛡️
 
 ### Introduction
 Welcome to CyberSecDojo, your ultimate dojo for mastering the art of cybersecurity and knowledge! CyberSecDojo is a curated collection of personal notes that encompass a diverse range of topics, from cybersecurity courses to personal experiences and beyond. Step into our dojo and embark on a transformative journey of discovery, learning, and personal growth with our comprehensive notes.
@@ -11,16 +11,17 @@ Explore a rich tapestry of cybersecurity knowledge within our dojo, encompassing
 📚 Book Summaries and Reviews
 
 ### 🥷 Why Choose CyberSecDojo?
-CyberSecDojo stands out as a unique repository that offers more than just notes; it offers a pathway to cybersecurity mastery and empowerment. Here's why CyberSecDojo is your go-to resource for cybersecurity knowledge:
-🌍 Global Perspective: Our dojo spans a wide array of cybersecurity subjects, catering to a global audience with varied interests.
-📚 High-Quality Content: Each note is thoughtfully curated and meticulously crafted to provide valuable insights, best practices, and actionable takeaways.
+CyberSecDojo stands out as a unique repository that offers more than just notes; it offers a pathway to cybersecurity mastery and empowerment. Here's why CyberSecDojo is your go-to resource for cybersecurity knowledge:<br>
+🌍 Global Perspective: Our dojo spans a wide array of cybersecurity subjects, catering to a global audience with varied interests.<br>
+📚 High-Quality Content: Each note is thoughtfully curated and meticulously crafted to provide valuable insights, best practices, and actionable takeaways.<br>
 🤝 Community-Centric: Be part of our vibrant community of cybersecurity professionals, learners, educators, and enthusiasts who are passionate about sharing and exchanging cybersecurity knowledge.
 
 ### 🚀 Getting Started with CyberSecDojo
-Embarking on your cybersecurity journey with CyberSecDojo is a breeze:
-🖱️ Click on the "CyberSecDojo" link at the top to access our dojo.
-📂 Navigate through the folders to discover notes on cybersecurity topics that pique your interest.
-📝 Open individual markdown files to delve into detailed notes, summaries, tools, techniques, and insights.
+Embarking on your cybersecurity journey with CyberSecDojo is a breeze:<br>
+🖱️ Click on the "CyberSecDojo" link at the top to access our dojo.<br>
+📂 Navigate through the folders to discover notes on cybersecurity topics that pique your interest.<br>
+📝 Open individual markdown files to delve into detailed notes, summaries, tools, techniques, and insights.<br>
+📓 For **Obsidian notes**, you can get the best reading experience by installing **Obsidian software**.Then open it as a folder (vault).
 
 ### 🌐 Stay Connected with CyberSecDojo
 Stay connected with the CyberSecDojo community and stay updated on the latest cybersecurity trends, tools, and techniques. Here's how you can connect with us:
