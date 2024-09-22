@@ -1,0 +1,211 @@
+{
+  "main": {
+    "id": "b634a14ec008f97b",
+    "type": "split",
+    "children": [
+      {
+        "id": "1cd886f6463a7527",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "40b04772aca90294",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "PEH/1.NoteKeeping/2.GreenShot or FlameShot.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "022a1c30758b3f14",
+    "type": "split",
+    "children": [
+      {
+        "id": "f07bd32623c4f826",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "60fd4dbb8f381937",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "9fa6a21183521892",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "sch",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "9ee778f2471b0639",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "967d2a2e5f4c4917",
+    "type": "split",
+    "children": [
+      {
+        "id": "68f961ca8ecd1778",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "b7eb862cad031282",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "PEH/1.NoteKeeping/2.GreenShot or FlameShot.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": false
+              }
+            }
+          },
+          {
+            "id": "d1dc940f05512fcc",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "PEH/1.NoteKeeping/2.GreenShot or FlameShot.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "b38e9f11c7dddbdc",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": false
+              }
+            }
+          },
+          {
+            "id": "4cf8abfbaec13618",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "PEH/1.NoteKeeping/2.GreenShot or FlameShot.md"
+              }
+            }
+          },
+          {
+            "id": "66031340d9e69217",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 269.5,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false
+    }
+  },
+  "active": "40b04772aca90294",
+  "lastOpenFiles": [
+    "PEH/PEH-notes",
+    "PEH/1.NoteKeeping/1.How to use obsidian ....md",
+    "PEH/1.NoteKeeping/2.GreenShot or FlameShot.md",
+    "PEH/n.001_Career_Advice.md",
+    "Untitled/Untitled.md",
+    "PEH/k.Find & Exploit Common Web Vulnerabilities/3.  SQL Injection - UNION.md",
+    "PEH/k.Find & Exploit Common Web Vulnerabilities/4.SQL Injection - Blind Part 1.md",
+    "PEH/k.Find & Exploit Common Web Vulnerabilities/5.  SQL Injection - Challenge Waklthrough.md",
+    "PEH/k.Find & Exploit Common Web Vulnerabilities/2.  SQL Injection - Introduction.md",
+    "PEH/k.Find & Exploit Common Web Vulnerabilities/6.Credential Stuffing and Password Spraying.md",
+    "PEH/k.Find & Exploit Common Web Vulnerabilities/6.SQL Injection - Blind Part 2.md",
+    "PEH/k.Find & Exploit Common Web Vulnerabilities/10.  XSS - Challenge Walkthrough.md",
+    "PEH/k.Find & Exploit Common Web Vulnerabilities/15.  Attacking Authentication - Intro.md",
+    "PEH/0.images/Pasted image 20240821170242.png",
+    "Untitled",
+    "PEH/0.images/Pasted image 20240820190844.png",
+    "PEH/0.images/Pasted image 20240815121621.png",
+    "PEH/m.Legal Documents and Report Writing/3  003_Reviewing_a_Real_Pentest_Report.md",
+    "PEH/m.Legal Documents and Report Writing/1.  001_Common_Legal_Documents.md",
+    "PEH/m.Legal Documents and Report Writing/2.  002_Pentest_Report_Writing.md",
+    "PEH/0.images/Pasted image 20240821164127.png",
+    "PEH/0.images/Pasted image 20240821160329.png",
+    "PEH/l.Wireless Penetration Testing/2   002_WPA_PS2_Exploit_Walkthrough.md",
+    "PEH/m.Legal Documents and Report Writing",
+    "PEH/0.images/Pasted image 20240821145358.png",
+    "PEH/0.images/Pasted image 20240821145309.png",
+    "PEH/0.images/Pasted image 20240821144946.png",
+    "PEH/0.images/Pasted image 20240821144722.png",
+    "PEH/0.images/Pasted image 20240821140955.png",
+    "PEH/l.Wireless Penetration Testing/1.001_Wireless_Penetration_Testing_Overview.md",
+    "PEH/11.New Capstone/5.blackpearl.md",
+    "PEH/11.New Capstone/4.Butler.md",
+    "PEH/11.New Capstone/3.dev.md",
+    "PEH/11.New Capstone/2.academy.md",
+    "PEH/11.New Capstone/1.Blue.md",
+    "PEH/k.Find & Exploit Common Web Vulnerabilities/21. capstone.md",
+    "PEH/l.Wireless Penetration Testing",
+    "PEH/k.Find & Exploit Common Web Vulnerabilities/14.Command Injection - Challenge Walkthrough.md",
+    "PEH/j.Web Application Enumeration, Revisited/5.  Automating the Enumeration Process.md",
+    "PEH/j.Web Application Enumeration, Revisited",
+    "PEH/i.Post Exploitation",
+    "PEH/h.Active Directory Case Studies",
+    "PEH/g.Additional Active Directory Attacks",
+    "PEH/f.We've Compromised the Domain - Now What",
+    "PEH/e.Attacking Active Directory,Post-Compromise Attacks",
+    "PEH/d.Attacking Active Directory , Post-Compromise Enumeration",
+    "Untitled.canvas"
+  ]
+}
